@@ -5,7 +5,7 @@ Part of the **Riddles** brand (5-app family). See brand strategy in `../PLAN.md`
 ## This App
 - **Category:** picture / visual riddles. Heaviest content lift (needs image per riddle) → build LAST.
 - **Repo:** https://github.com/DEVENDRAP7/Riddles-pics.git
-- **Package id (planned):** `com.riddles.pics` (confirm before build).
+- **Package id (FINAL, permanent):** `com.devendrap7.riddles.pics`
 - **Accent color:** pink. Glyph: image.
 - **Privacy policy URL:** TBD (separate per app).
 
